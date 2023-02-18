@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+h1 {
+    font-family: Impact;
+    font-size: 80px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    font-size: 13px;
+    background-color: blue !important;
+    font-size: 14px;
+    border-radius: 0px !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+}
+
+button:hover {
+    background-color: green !important;
+}
